@@ -8,6 +8,15 @@ A simple and efficient helper tool for visualizing 3D reconstructed point clouds
 *Visualizing outdoor_scene.ply from the Google Drive*
 
 
+## Videos (So you don't have to run it!)
+
+[Outdoor Scene|Yatra Garden](https://youtu.be/jJfjwZnwE_4)
+
+[Office Space](https://youtu.be/InYjTczq2XY)
+
+[Getty](https://youtu.be/Ki64o2KzNJg)
+
+[Indoor Art](https://youtu.be/4QgIR77MSJA)
 
 ## Features
 
